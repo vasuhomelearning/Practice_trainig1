@@ -11,8 +11,10 @@ Important Thing to learn
 
 5.Need to Learn Plsql Topics.
 
-6.Learn about Banking Domain.
+6.Learn About Tablue/BI Software.
 
-7.Improve English Communications Skill.
+7.Learn about Python programming.
 
-8.Learn about Unit Testing.
+8.Improve English Communications Skill.
+
+9.Learn Scala Programming.
