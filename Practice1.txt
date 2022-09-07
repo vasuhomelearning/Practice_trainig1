@@ -17,3 +17,12 @@ Important Thing to learn
 
 8.Improve English Communications Skill.
 
+Data Science Related:
+---------------------
+
+9.Learn about python programming.
+
+10.Learn about Scala programming.
+
+11.Learn Data Virtualization Tools like Power BI/Tablue.
+
