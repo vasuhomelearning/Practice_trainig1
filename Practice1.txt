@@ -11,11 +11,11 @@ Important Thing to learn
 
 5.Need to Learn Plsql Topics.
 
-6.Banking Domain Knowledge.
+6.Learn About Banking Domain.
 
-7.Improve English Communications Skill.
+7.Learn about Unit Testing.
 
-8.Learn about Unit Testing.
+8.Improve English Communications Skill.
 
 Data Science Related:
 ---------------------
@@ -25,3 +25,4 @@ Data Science Related:
 10.Learn about Scala programming.
 
 11.Learn Data Virtualization Tools like Power BI/Tablue.
+
