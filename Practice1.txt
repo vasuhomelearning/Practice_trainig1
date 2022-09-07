@@ -26,3 +26,4 @@ Data Science Related:
 
 11.Learn Data Virtualization Tools like Power BI/Tablue.
 
+12.Learn online
