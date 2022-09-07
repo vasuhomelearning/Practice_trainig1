@@ -8,3 +8,7 @@ Important Thing to learn
 3.How to use Linux Os.
 
 4.Need to Learn about Agile methology.
+
+5.Need to Learn Plsql Topics.
+
+6.Learn about Banking Domain.
